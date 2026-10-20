@@ -180,7 +180,7 @@ export const Contact: React.FC<ContactProps> = ({ initialSubject = '' }) => {
                 </div>
                 <div className="flex items-center gap-2 text-emerald-500">
                   <span className="w-2 h-2 rounded-full bg-emerald-500 animate-ping" />
-                  <span>Available for freelance contracts &amp; remote teams</span>
+                  <span>Available for freelance contracts</span>
                 </div>
                 <div className="pt-2 flex items-center gap-2 font-sans">
                   <a
