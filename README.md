@@ -1,4 +1,4 @@
-# Farid Mia — World-Class Developer Portfolio
+# Farid Mia —  Portfolio
 
 A personal brand and developer portfolio website for **Farid Mia** — Full-Stack Developer, WordPress & Laravel Specialist, and AI Automation Engineer.
 
